@@ -188,7 +188,7 @@ main {
 }
 
 .hero-image {
-    background-image: url(/images/image-hero-desktop.png);
+    background-image: url(/images/image-hero-desktop.png) !important;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 80%;
