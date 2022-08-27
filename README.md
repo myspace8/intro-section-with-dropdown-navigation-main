@@ -15,7 +15,7 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 ### Links
 
 - Solution URL: [Github repo here](https://github.com/myspace8/intro-section-with-dropdown-navigation-main)
-- Live Site URL: [Live site here](https://your-live-site-url.com)
+- Live Site URL: [Live site here](https://myspace8.github.io/intro-section-with-dropdown-navigation-main/)
 
 
 ### Built with
@@ -33,6 +33,5 @@ I learnt how important it is to do mobile first design
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/myspace8)
+- Twitter - [@yourusername](https://twitter.com/owoahene_joseph)
