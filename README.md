@@ -14,8 +14,8 @@ This is a solution to the [Intro section with dropdown navigation challenge on F
 
 ### Links
 
-- Solution URL: [Github repo here](https://github.com/myspace8/intro-section-with-dropdown-navigation-main)
-- Live Site URL: [Live site here](https://myspace8.github.io/intro-section-with-dropdown-navigation-main/)
+[Github repo here](https://github.com/myspace8/intro-section-with-dropdown-navigation-main)
+[Live site here](https://myspace8.github.io/intro-section-with-dropdown-navigation-main/)
 
 
 ### Built with
